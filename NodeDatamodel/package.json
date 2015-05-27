@@ -1,0 +1,14 @@
+{
+  "name": "NodeDatamodel",
+  "version": "0.0.1",
+  "description": "Node Datamodel",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Philipp Weitz",
+
+  "dependencies": {
+    "mongodb": "*"
+  }
+}
